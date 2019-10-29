@@ -1,0 +1,13 @@
+@import "./header";
+@import "./main";
+
+$baseColor: #bcbcbc;
+
+$theme-colors: (
+  "primary": #0074d9,
+  "danger": #ff4136
+);
+
+body {
+  background: $baseColor;
+}

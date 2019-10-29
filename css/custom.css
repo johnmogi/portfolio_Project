@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+}
+
+.hero {
+  background-image: url(./images/avataaars.svg);
+  min-height: 400px;
+  min-height: 400px;
+  background-position: -100% 40%;
+  background-repeat: no-repeat;
+}
+
+.bd-example {
+  margin: 0 auto;
+  padding-bottom: 2rem;
+}
+
+body {
+  background: #bcbcbc;
+}
+/*# sourceMappingURL=custom.css.map */
