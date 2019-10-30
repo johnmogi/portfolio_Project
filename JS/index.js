@@ -1,3 +1,8 @@
 $(document).ready(function() {
-  console.log("ready!");
+  const filetrb = $("#filterb");
+
+  $("#filterb").on("click", function() {
+    alert("yo");
+  });
+  /*RF*/
 });
