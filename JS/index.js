@@ -1,8 +1,16 @@
 $(document).ready(function() {
-  const filetrb = $("#filterb");
 
-  $("#filterb").on("click", function() {
-    alert("yo");
-  });
+  const filetrb = $("#filterB");
+
+
+  $("#filterB").click(  () =>
+ alert("yo")
+
+  );
   /*RF*/
 });
+
+
+// (()=> {
+//   const filetrb = $("#filterB");
+// })

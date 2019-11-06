@@ -15,6 +15,10 @@ header {
   padding-bottom: 2rem;
 }
 
+.card {
+  cursor: pointer;
+}
+
 body {
   background: #bcbcbc;
 }
